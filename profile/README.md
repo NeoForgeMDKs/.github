@@ -12,3 +12,7 @@ Some MDKs may have 2 Gradle plugin options: NeoGradle and ModDevGradle.
 For the most part, these projects are functionally equivalent, but ModDevGradle is aimed for simpler and more streamlined buildscripts and Gradle setups, while NeoGradle supports
 having multiple NeoForge/Minecraft versions in the same project.  
 The choice is yours, as both alternatives are fully endorsed.
+
+### Contributing
+If you with to contribute to the MDKs, you should do so by opening a PR against the [upstream repository](https://github.com/neoforged/mdk).  
+The repositories under this organization are read-only mirrors, and neither issues nor pull requests will be accepted.
