@@ -1,4 +1,4 @@
-![NeoForge logo](https://github.com/neoforged/NeoForge/raw/1.20.x/docs/assets/neoforged_logo.png)
+![NeoForge logo](https://github.com/neoforged/.github/raw/main/art/neoforged_logo.png)
 
 # NeoForge MDKs
 This organization holds Mod Development Kits for the [NeoForge](https://neoforged.net) Minecraft mod loader.  
